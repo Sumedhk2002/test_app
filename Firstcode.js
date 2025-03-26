@@ -9,6 +9,6 @@ console.log(`Name is ${firstName}`);
 console.log(`Last Name is ${lastName}`);
 console.log(`Age is ${age}`);
 
-// console.log(`ID is ${id}`);
-// console.log(`organization is ${organization}`);
-// console.log(`JobLocation is ${JobLocation}`);
+console.log(`ID is ${id}`);
+console.log(`organization is ${organization}`);
+console.log(`JobLocation is ${JobLocation}`);
