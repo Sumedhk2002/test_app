@@ -1,1 +1,1 @@
-Git practice
+Performming git operations
