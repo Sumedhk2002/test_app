@@ -1,0 +1,3 @@
+Git is a distributed version control system that helps developers track changes in source code during software development.
+It allows multiple developers to work on the same project simultaneously by giving the feature of branching.
+Git uses repositories to store project history. Git uses branches to isolate development work.It is a free and open-source version control system used to handle small to very large projects efficiently.
